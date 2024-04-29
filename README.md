@@ -1,8 +1,7 @@
-# React + Vite
+# Expense Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An expense tracking dashboard built with React, JavaScript, Tailwind CSS, and Zustand. The design focuses on providing a user-friendly interface for managing expenses.
 
-Currently, two official plugins are available:
+You can follow along the entire development of this project <a href="https://www.youtube.com/watch?v=iUL-Q9t4fSc&ab_channel=CodeWave" target="_blank">here</a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![screencapture-localhost-5173-2024-04-28-20_49_23](https://github.com/TathataHY/expense-dashboard/assets/86846618/4a85bae5-6f6a-4a42-b836-4dfff34c2084)
