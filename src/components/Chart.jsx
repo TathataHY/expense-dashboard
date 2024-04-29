@@ -26,7 +26,7 @@ const data = [
 
 export const Chart = () => {
   return (
-    <section className="w-full md:w-2/3">
+    <section id="transactions" className="w-full md:w-2/3">
       <Title title="Transaction Activity" />
 
       <ResponsiveContainer width={"100%"} height={500} className="mt-5">

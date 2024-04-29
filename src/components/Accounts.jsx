@@ -47,7 +47,7 @@ const data = [
 
 export const Accounts = () => {
   return (
-    <div className="mt-20 md:mt-0 py-5 md:py-20 md:w-1/3">
+    <div id="accounts" className="mt-20 md:mt-0 py-5 md:py-20 md:w-1/3">
       <Title title="Accounts" />
       <span className="text-sm text-gray-600 dark:text-gray-500">
         View all your accounts

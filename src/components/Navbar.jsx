@@ -31,7 +31,7 @@ export const Navbar = () => {
             }`}
             onClick={() => setSelected(index)}
           >
-            <a href="#">{link}</a>
+            <a href={`#${link.toLowerCase()}`}>{link}</a>
           </div>
         ))}
       </nav>
